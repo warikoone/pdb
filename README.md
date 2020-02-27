@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Hi there!
 
-You can use the [editor on GitHub](https://github.com/warikoone/pdb/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a Machine Learning enthuaist and budding scientist interested in questions like 'Concepts of Learning interpretability within ML black boxes' and 'how customized learning interpretability could help match machine learning to human comprehension'. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Graduated recently with Doctoral Degree in Bio-Natural Language Processing and Machine Learning; I'm presently keeping working as a Research Intern @ Deutsche Boerse, Frankfurt.
+
 
 ### Markdown
 
