@@ -1,7 +1,7 @@
 /* @import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900); */
 body {
   background-color: #141414;
-  background-image:url('data:https://github.com/warikoone/pdb/blob/master/glx.jpg);
+  background-image:url('data:glx.jpg);
   
     margin:0; padding:0;
     overflow-x:hidden;
